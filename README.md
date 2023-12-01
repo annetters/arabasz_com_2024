@@ -1,10 +1,14 @@
 # arabasz.com
 
-This is the code for my portfolio website, http://arabasz.com (2024).
+This is the work-in-progress code for my refreshed portfolio website 
 
 ## What's the code stack?
-* HTML, CSS, SCSS, JavaScript 
-* NPM
+* HTML
+* CSS/SCSS
+* React JS
+* Next JS
+* Tailwind CSS  
+* NPM, Webpack
 
 ## License
 Copyright (c) 2024 Annette Arabasz  
