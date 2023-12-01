@@ -12,6 +12,7 @@ Working on a revamp of my portfolio website to make use of more recent technolog
 * NPM, Webpack
 
 ## How to run
+These commands assume you have NPM (https://www.npmjs.com) installed and have run a `npm i` on the root folder.
 * `dev` runs in development mode
 * `build` runs a build to build the application for production usage
 * `start` runs starts  production server
