@@ -1,6 +1,6 @@
 # arabasz.com
 
-This is the work-in-progress code for my refreshed portfolio website 
+Working on a revamp of my portfolio website to make use of more recent technology. The current site (https://arabasz.com) was great and modern at the time, but CSS and JS has come a long way since then and I want to incorporate that.
 
 ## What's the code stack?
 * HTML
