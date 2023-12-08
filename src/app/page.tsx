@@ -8,10 +8,21 @@ export default function Home() {
           Annette Arabasz | Front-End Developer
         </h1>
         <p className="mt-6 text-base text-slate-600 dark:text-slate-400">
-          Annette is a Front-End Developer in Boston with 15+ years of coding
-          expertise in websites and web apps. Fueled by a passion for UX, she
-          enjoys interfaces with usability and accessibility in mind.
+          I'm a Front-End Developer in Boston with over 15 years of coding
+          experience. My background is in Graphic Design, so I love working on
+          projects that focus on user-friendliness and accessibility.
         </p>
+        <p>
+          I'm passionate about tech inclusion and started the Boston chapter of
+          Girl Develop It, a national non-profit teaching women how to code. You
+          might've also caught me presenting at UXPA Boston or Bentley
+          University.
+        </p>
+        <p>
+          Beyond the pixels, you'll find me navigating the fiery world of hot
+          sauces, indulging in craft beers or hiking with my Corgi Starbuck.
+        </p>
+
         <div className="mt-6 flex gap-6">
           <a
             className="group -m-1 p-1"
