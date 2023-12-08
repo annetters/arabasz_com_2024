@@ -1,6 +1,6 @@
 # Portfolio website, arabasz.com
 
-Working on a revamp of my portfolio website to make use of more recent technology. The current site (https://arabasz.com) was great and modern at the time, but CSS and JS has come a long way since then and I want to incorporate that.
+Working on a revamp of my portfolio website to make use of more recent technology like Tailwind CSS and Next JS. Deploys to Vercel. The current site (https://arabasz.com) is still up and will be replaced soon with this version.
 
 ## Preview
 https://arabasz-com-2024.vercel.app
@@ -8,11 +8,13 @@ https://arabasz-com-2024.vercel.app
 ## What's the code stack?
 * HTML
 * CSS/SCSS
+* Typescript
 * Tailwind CSS (https://tailwindcss.com/)
-* React JS
+* React JS (https://react.dev/)
 * Next JS (https://nextjs.org/)
 * Prettier (https://prettier.io/)
-* NPM, Webpack
+* NPM
+* Webpack
 
 ## How to run
 These commands assume you have NPM (https://www.npmjs.com) installed and have run a `npm i` on the root folder.
