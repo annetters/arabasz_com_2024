@@ -12,13 +12,13 @@ export default function Home() {
           experience. My background is in Graphic Design, so I love working on
           projects that focus on user-friendliness and accessibility.
         </p>
-        <p>
+        <p className="mt-6 text-base text-slate-600 dark:text-slate-400">
           I'm passionate about tech inclusion and started the Boston chapter of
           Girl Develop It, a national non-profit teaching women how to code. You
           might've also caught me presenting at UXPA Boston or Bentley
           University.
         </p>
-        <p>
+        <p className="mt-6 text-base text-slate-600 dark:text-slate-400">
           Beyond the pixels, you'll find me navigating the fiery world of hot
           sauces, indulging in craft beers or hiking with my Corgi Starbuck.
         </p>
